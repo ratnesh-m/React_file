@@ -1,0 +1,21 @@
+
+.mainDiv{
+  height: fit-content;
+  width: 300px;
+  background-color: rgb(154, 150, 140);
+  margin-left: 25px;
+  margin: 30px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+
+}
+
+.minDiv{
+  text-align: center;
+}
+
+.image{
+  height: 200px;
+  width: 300px;
+}
